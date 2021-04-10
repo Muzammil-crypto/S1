@@ -1,0 +1,32 @@
+body{margin: 0px;
+    padding: 0px;    
+}
+#body1{
+        background-color: teal ;
+        width: 1550px;
+        height: 150px;
+        margin: 0px;
+        padding: 0px;
+    }   
+#body2{
+        background-color:white ;
+        width: 1550px;
+        height: 150px;
+        margin: 0px;
+        padding: 0px;
+    }   
+#logo{
+    width: 125px;
+    height: 125px;
+    margin: 10px 10px 10px 10px;
+}
+#bimage{
+    width: 1550px;
+    height: 800;
+    margin:  0px;
+    padding:  0px;
+}
+#bimage{
+    width: 250px;
+    height: 20px;
+}
